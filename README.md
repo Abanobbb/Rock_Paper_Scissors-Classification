@@ -8,6 +8,7 @@ Rock Paper Scissors contains images from a variety of different hands,  from dif
 Note that all of this data is posed against a white background.
 
 Each image is 300×300 pixels in 24-bit color
+
 [Training data] :(https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
 [Test data]:( https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip)    
     
